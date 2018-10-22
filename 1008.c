@@ -5,7 +5,7 @@ int main() {
 	char nome[10];
 	double salario, total, horas;
 
-	printf("Digite o numero do funcionario: ");
+	printf("Digite o Nome/Nº do funcionario: ");
 	fgets(nome, 10, stdin);
 	printf("nome = %s", nome);
 
